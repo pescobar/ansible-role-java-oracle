@@ -1,0 +1,27 @@
+---
+galaxy_info:
+
+  author: Pablo Escobar
+  description: Install the Java JDK tarball from Oracle
+  company: sciCORE - University of Basel - Swiss Institute of Bioinformatics SIB
+
+  license: GPLv3
+
+  min_ansible_version: 2.4
+
+  platforms:
+    - name: EL
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+
+  galaxy_tags:
+    - java
+    - oracle
+
+dependencies: []

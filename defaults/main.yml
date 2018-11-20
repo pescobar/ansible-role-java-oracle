@@ -1,0 +1,11 @@
+---
+# defaults file for ansible-role-java-oracle
+#
+# The tarball can be downloaded with something like:
+#
+# wget --header "Cookie: oraclelicense=accept-securebackup-cookie" \
+# http://download.oracle.com/otn-pub/java/jdk/8u191-b12/2787e4a523244c269598db4e85c51e0c/jdk-8u191-linux-x64.tar.gz
+
+url: "http://download.oracle.com/otn-pub/java/jdk/8u191-b12/2787e4a523244c269598db4e85c51e0c/jdk-8u191-linux-x64.tar.gz"
+
+java_install_folder: "/opt"
