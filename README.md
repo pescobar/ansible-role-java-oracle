@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pescobar/ansible-role-java-oracle.svg?branch=master)](https://travis-ci.org/pescobar/ansible-role-java-oracle)
+
 ansible-role-java-oracle
 =========
 
