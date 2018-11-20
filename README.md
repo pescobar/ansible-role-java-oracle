@@ -5,7 +5,7 @@ pescobar.java_oracle
 
 Install the Java JDK tarball from Oracle to /opt/java
 
-This role will also copy a file to `/etc/profile.d/java.sh` to define `$JAVA_HOME` and `$PATH`
+This role will also copy a file to `/etc/profile.d/java.sh` to define `$JAVA_HOME` and `$PATH` on login
 
 Role Variables
 --------------
