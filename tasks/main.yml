@@ -35,7 +35,7 @@
 - name: Create a symlink /opt/java
   file:
     src: "{{ jdk_path }}"
-    dest: "{{java_install_folder }}/java"
+    dest: "{{ java_install_folder }}/java"
     state: link
 
 - name: Copy /etc/profile.d/java.sh to define JAVA_HOME and PATH
