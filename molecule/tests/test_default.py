@@ -26,5 +26,3 @@ def test_opt_java(host):
 def test_java_binary(host):
     f = host.file('/opt/java/bin/java')
     assert f.exists
-    assert f.user == 'root'
-    assert f.group == 'root'
