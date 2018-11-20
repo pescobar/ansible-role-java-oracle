@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/pescobar/ansible-role-java-oracle.svg?branch=master)](https://travis-ci.org/pescobar/ansible-role-java-oracle)
 
-ansible-role-java-oracle
+pescobar.java_oracle
 =========
 
 Install the Java JDK tarball from Oracle to /opt/java
@@ -24,7 +24,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: ansible-role-java-oracle }
+         - { role: pescobar.java_oracle }
 
 License
 -------
