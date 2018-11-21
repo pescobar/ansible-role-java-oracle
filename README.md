@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/pescobar/ansible-role-java-oracle.svg?branch=master)](https://travis-ci.org/pescobar/ansible-role-java-oracle)
+[![Ansible Galaxy](https://img.shields.io/badge/galaxy-pescobar.java_oracle-blue.svg)](https://galaxy.ansible.com/pescobar/java_oracle)
+
 
 pescobar.java_oracle
 =========
